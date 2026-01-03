@@ -7,7 +7,7 @@
 **TELEGRAM:** [https://t.me/minesdotwin](https://t.me/minesdotwin)
 
 ## VIDEO
-[![Stake Mines Predictor](http://img.youtube.com/vi/gvnbSJDQ1DU/0.jpg)](https://youtu.be/gvnbSJDQ1DU?si=g1uUnP-iPAwg964J "Install your Stake Predictor with www.Mines.win")
+[![Stake Mines Predictor](http://img.youtube.com/vi/CbAgrpX78Ds/0.jpg)](https://youtu.be/CbAgrpX78Ds?si=g1uUnP-iPAwg964J "Install your Stake Predictor with www.Mines.win")
 
 ## Getting Started
 Just open the site and start:
